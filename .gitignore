@@ -1,0 +1,34 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+venv_Lollo
+*.pth
+dataset
+
+# Ignore everything in train folder except result* (recursive)
+Video-ViT/train/**
+!Video-ViT/train/**/
+!Video-ViT/train/**/results/*
+dataset
+uv.lock
+
+Pyramid-Flow
+pyramid-flow-sd3
+papers
+
+# Checkpoints and Models
+Video-ViT/checkpoints/
+*.pt
+*.pth
+
+# Checkpoints and Models
+Video-ViT/checkpoints/
+*.pt
+*.pth
