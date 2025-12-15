@@ -32,3 +32,8 @@ Video-ViT/checkpoints/
 Video-ViT/checkpoints/
 *.pt
 *.pth
+
+
+#
+fake_accuracy.png
+total_accuracy.png

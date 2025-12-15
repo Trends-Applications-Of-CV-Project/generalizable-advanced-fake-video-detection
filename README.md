@@ -34,7 +34,7 @@ Our model demonstrates significant improvements in detection accuracy. Below are
 
 | Total Accuracy | Fake Video Accuracy |
 |:---:|:---:|
-| ![Total Accuracy](results/total_accuracy.png) | ![Fake Accuracy](results/fake_accuracy.png) |
+| <img src="total_accuracy.png" alt="Total Accuracy" width="300"/> | <img src="fake_accuracy.png" alt="Fake Accuracy" width="300"/> |
 
 > **Note**: The graphs illustrate the performance gain of our method compared to baseline.
 
